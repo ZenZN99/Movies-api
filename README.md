@@ -1,4 +1,4 @@
-![Movies Banner](https://chatgpt.com/s/m_690d0129ca7c8191a50daeaced9726cc)
+
 
 # 🎬 Movies API
 
