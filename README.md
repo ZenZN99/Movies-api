@@ -1,5 +1,5 @@
-🎬 Movies API
-📝 Overview
+## 🎬 Movies API
+
 
 Movies API is a backend application built with Node.js and Express.js, providing a complete system for managing and displaying movies.
 It allows users to register, log in, view movies, and like/unlike them, while admins can create, update, and delete movies with image uploads via Cloudinary.
