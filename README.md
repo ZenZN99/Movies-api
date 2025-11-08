@@ -10,10 +10,9 @@ The project uses MongoDB for data storage and JWT for authentication, following 
 
 Make sure to create a .env file in the root directory with the following variables:
 
-PORT=5000
+PORT=your_port
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-ADMIN_EMAIL=admin@admin.com
 ADMIN_PASSWORD=your_admin_password
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
